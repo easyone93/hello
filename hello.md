@@ -16,3 +16,7 @@
 
 - more
 - no
+
+## checkout
+
+- 브랜치를 선택하고
